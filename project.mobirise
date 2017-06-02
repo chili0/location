@@ -70,7 +70,7 @@
           },
           "title": "Location",
           "text": "To live where others dream of a whole life.<br>In a hidden jem",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://chili0.github.io/master/asset/images/Expose_02_short.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Asset</a>    <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://map.search.ch/Oberwil-Lieli?pos=671600.243888&amp;z=64\" data-toolbar=\"-mbrBtnMove\">Community Map</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://chili0.github.io/master/Expose_02_short.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Asset</a>    <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://map.search.ch/Oberwil-Lieli?pos=671600.243888&amp;z=64\" data-toolbar=\"-mbrBtnMove\">Community Map</a>"
         },
         {
           "_name": "footer1",
